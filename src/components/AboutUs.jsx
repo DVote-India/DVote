@@ -117,7 +117,7 @@ const AboutUs = () => {
                             <IconButton href="https://www.canva.com/design/DAGMWyRDln0/EiAN7IyyHCqyEP1UXE17tw/edit" target="_blank" aria-label="Canva">
                                 <img src={CanvaImage} alt="Canva" style={{ width: 40, height: 40 }} />
                             </IconButton>
-                            <IconButton href="https://github.com/Aaryan-Urunkar/DVote-India" target="_blank" aria-label="GitHub">
+                            <IconButton href="https://github.com/DVote-India" target="_blank" aria-label="GitHub">
                                 <GitHubIcon style={{ fontSize: 40 }} />
                             </IconButton>
                         </Box>
